@@ -1,0 +1,9 @@
+Package: foofactors
+Version: 0.0.0.9000
+Depends: R (>= 3.3.3)
+Imports: dplyr
+Suggests: testthat, knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: 2ea12e45c3162daa0d216eda6dd483f5
+NeedsCompilation: no
+
