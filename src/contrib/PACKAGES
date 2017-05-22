@@ -11,5 +11,5 @@ Depends: R (>= 3.3.3)
 Imports: magrittr, drat
 Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 45795186ad9ad8e815a7f53815265d09
+MD5sum: 75143459f5946b60af6a2440af359bbf
 NeedsCompilation: no
