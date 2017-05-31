@@ -6,10 +6,10 @@ MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
 Package: foofactors
-Version: 0.0.0.9003
+Version: 0.0.0.9004
 Depends: R (>= 3.3.3)
 Imports: magrittr, drat
 Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 75143459f5946b60af6a2440af359bbf
+MD5sum: eee0a5ddc14b8d678d919950529c1ed0
 NeedsCompilation: no
